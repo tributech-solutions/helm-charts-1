@@ -9,7 +9,7 @@ entries:
     sources:
     - https://github.com/neo4j/helm-charts/tree/4.4/neo4j-standalone
     urls:
-    - https://github.com/tributech-solutions/helm-charts-1/blob/gh-pages/packages/neo4j-standalone-4.4.6-alpha.tgz
+    - https://github.com/tributech-solutions/helm-charts-1/raw/gh-pages/packages/neo4j-standalone-4.4.6-alpha.tgz
     version: 4.4.6-alpha
   enterprise-logs:
   - apiVersion: v2
