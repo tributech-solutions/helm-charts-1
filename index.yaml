@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  neo4j-standalone:
+  - created: 2022-04-13T13:43:05.291822000+05:30
+    description: Neo4j Standalone 4.4.6-alpha
+    digest: b29e6cf48c6a29c99b8d2bbfabfa17e83d9954438a133ca6d56539339770ebd3
+    home: https://github.com/neo4j/helm-charts
+    name: neo4j-standalone
+    sources:
+    - https://github.com/neo4j/helm-charts/tree/4.4/neo4j-standalone
+    urls:
+    - https://github.com/tributech-solutions/helm-charts-1/blob/gh-pages/packages/neo4j-standalone-4.4.6-alpha.tgz
+    version: 4.4.6-alpha
   enterprise-logs:
   - apiVersion: v2
     appVersion: v1.3.0
